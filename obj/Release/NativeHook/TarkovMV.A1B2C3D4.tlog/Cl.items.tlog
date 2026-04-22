@@ -1,0 +1,4 @@
+C:\Users\celin\source\repos\TarkovMVM\NativeHook\dllmain.cpp;C:\Users\celin\source\repos\TarkovMVM\NativeHook\obj\Release\NativeHook\dllmain.obj
+C:\Users\celin\source\repos\TarkovMVM\NativeHook\Exports.cpp;C:\Users\celin\source\repos\TarkovMVM\NativeHook\obj\Release\NativeHook\Exports.obj
+C:\Users\celin\source\repos\TarkovMVM\NativeHook\PresentHook.cpp;C:\Users\celin\source\repos\TarkovMVM\NativeHook\obj\Release\NativeHook\PresentHook.obj
+C:\Users\celin\source\repos\TarkovMVM\NativeHook\SharedMemoryChannel.cpp;C:\Users\celin\source\repos\TarkovMVM\NativeHook\obj\Release\NativeHook\SharedMemoryChannel.obj
